@@ -69,7 +69,7 @@ You can download <a href="https://insomnia.rest/download">Insomnia</a> to manipu
 ## 🤝 Contributing
 
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Brainybrian316/Employee-Tracker/issues). You can also take a look at the contributing guide below: 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Brainybrian316/E-commerce-Back-End/issues). You can also take a look at the contributing guide below: 
 &nbsp;
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
