@@ -23,10 +23,8 @@ router.get('/', (req, res) => {
 
 router.get('/:id', (req, res) => {
   // find a single tag by its `id`
-  Tag.findOne({
-      where: {
-        id: req.params.id
-      },
+  Tag.findByPk(req.params.id,
+    {
         // be sure to include its associated Product data
           include: [
             {
